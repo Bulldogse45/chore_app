@@ -27,6 +27,8 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 
 gem 'haml'
 
+gem 'bootstrap_form'
+
 
 
 

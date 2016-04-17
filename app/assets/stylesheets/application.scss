@@ -13,7 +13,4 @@
   @import "bootstrap-sprockets";
   @import "bootstrap";
   @import "portfolio";
-
-  h1{
-    color: red;
-  }
+  @import "rails_bootstrap_forms";
