@@ -29,6 +29,9 @@ gem 'haml'
 
 gem 'bootstrap_form'
 
+gem 'authlogic'
+
+gem 'formtastic', '~> 3.0'
 
 
 

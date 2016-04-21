@@ -1,0 +1,7 @@
+<h3>Current Lists</h3>
+<ul>
+  <% @chores.each do |chore| %>
+    <li><%= link_to chore.name, list %></li>
+  <% end %>
+  <li><%= link_to "New Chore", new_list_path, class: "btn btn-primary" %></li>
+</ul>
